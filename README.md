@@ -22,8 +22,9 @@ The objective of this task is to implement a linear regression model to predict 
 - **Cross-Validation**: Perform cross-validation to evaluate the model's robustness and generalization capabilities across different subsets of the data.
 
 ### Technologie used
--**Python**: The primary language for data analysis, modeling, and machine learning.
--**Pandas**: For loading, manipulating, and analyzing the dataset (e.g., filtering, aggregating, and handling missing values).
--**Numpy**: For numerical operations and handling arrays, especially when performing mathematical computations.
--**Scikit-learn**: For implementing linear regression, model evaluation, cross-validation, feature scaling, and regularization techniques (Ridge and Lasso regression).
--**Scipy**: Used for statistical operations like outlier detection using Z-scores.
+- **Python**: The primary language for data analysis, modeling, and machine learning.
+- **Pandas**: For loading, manipulating, and analyzing the dataset (e.g., filtering, aggregating, and handling missing values).
+- **Numpy**: For numerical operations and handling arrays, especially when performing mathematical computations.
+- **Scikit-learn**: For implementing linear regression, model evaluation, cross-validation, feature scaling, and regularization techniques (Ridge and Lasso regression).
+- **Scipy**: Used for statistical operations like outlier detection using Z-scores.
+  
