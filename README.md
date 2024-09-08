@@ -8,4 +8,4 @@
 
 ## Overview of the Project
 
-### P
+### Project: Linear Regression Analysis
